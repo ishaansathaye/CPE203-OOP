@@ -4,3 +4,4 @@
 - ### [Lecture 1: Python to Java](./a_PythontoJava.md)
 
 ## Labs
+- ### [Lab 0: Python to Java (types)](Lab0)
