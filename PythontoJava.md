@@ -45,3 +45,35 @@
         - ```System.out.println()``` - adds \n to the end
         - ```print``` - no new line
     **- Can concatenate number and strings**
+
+## Data Types
+- Examples
+    - stack, list, queue, float
+    - **Class**: blue print for complex data types
+    - **Object**: instance of a class (actually filled with data)
+- Primitive Data Types
+    - **Primitive**: the most basic unit of data
+        - used to make every other complex data type
+        - Boolean, int, float, char, String, byte, double, long, short
+    - **Reference**: mutable
+
+## Java OOP
+- Rule of OOP
+    - All data types are objects
+    - But primitives are not...they are just raw data
+        - Created to make the language more efficient
+
+## Java Memory Management
+- The Stack - lifo
+    - local data
+- The Heap - dynamic memory (object)
+
+## Objects vs Primitives
+- Objects
+    - Can call methods on them
+        - `p.equals(p2)`
+    - Cannot use operators on objects (exceptions is string concatenation)
+- Primitive data
+    - Cannot call methods on them
+    - Can use operators on them
+- `p1 == p2` -> compares memory addresses not the objects or their data
