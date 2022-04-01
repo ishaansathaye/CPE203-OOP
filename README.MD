@@ -2,6 +2,7 @@
 
 ## Lecture Notes
 - ### [Lecture 1 and 2: Python to Java](./PythontoJava.md)
+- ### [Lecture 3: ArrayLists, Maps, Simple Classes, and UML](./ClassesUML.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)
