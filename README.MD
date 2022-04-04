@@ -3,6 +3,7 @@
 ## Lecture Notes
 - ### [Lecture 1 and 2: Python to Java](./PythontoJava.md)
 - ### [Lecture 3: ArrayLists, Maps, Simple Classes, and UML](./ClassesUML.md)
+- ### [Lecture 4: Maps, Simple Classes, OOP cs Procedural](./MapsClassesOOPvProced.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)

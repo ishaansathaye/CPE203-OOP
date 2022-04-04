@@ -10,6 +10,7 @@
         - `ArrayList<String> myStrings = new ArrayList<String>(Arrays.asList("hi"));`
         - `ArrayList<String> myStrings = new ArrayList<String>(100);`
             - `100` is the initial capacity of the ArrayList
+        - *Multiple constructors*
     - **Wrapper Classes - to put in an ArrayList**
         - int -> Integer
         - double -> Double
@@ -40,6 +41,14 @@
     - Access modifier
         - **private**: only access this data/method from within the class
         - Data Hiding - OOP tenet
-            - instance vars are private
+            - instance vars are private - hold data for the object
             - protects data
             - easier to collaborate on big projects
+    - Getters/Accessors
+        - public methods which return private data
+    - Setters/Mutators
+        - public methods which set private data
+        - ```public void setName(String name) { this.name = name; }```
+    - **`final` keyword**
+        - cannot be changed
+        - cannot be overridden
