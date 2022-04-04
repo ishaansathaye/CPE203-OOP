@@ -2,9 +2,9 @@
 
 ## OOP Tenants - 3 things: (data hiding, encapsulation, turning instance to static)
 - **Data Hiding**
-    - *private variables*
+    - *Private Variables*
         - forces you to go through public getters/setters to change variables
-    - *encapsulation* - **different from data hiding**
+    - *Encapsulation* - **different from data hiding**
         - bundling data and methods together in a single unit (in Java, unit=class)
         - Benefits
             - easier to debug
@@ -21,3 +21,14 @@
         - Do not need object to use: `Pitcher.INNINGS_PER_GAME`
     - *Static final*
         - **constant**: `public` (anybody can access) `static` (shared) `final` (cannot reassign)
+    - *Static method*
+        - method that belongs to the class and not the object
+        - can call the method without having an object
+        - Ex. `Math.pow()`
+        - **cannot use instance variables**
+    - *Instance method*
+        - method you can only call on an object
+        - Ex. `Course c = new Course(); c.getName()`
+        - **can access/modify instance variables**
+        - Ex. uses a pitcher's data to calculate their earned runs average
+        - **Syntax: put in class and omit static**
