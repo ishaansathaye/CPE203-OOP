@@ -32,3 +32,20 @@
         - **can access/modify instance variables**
         - Ex. uses a pitcher's data to calculate their earned runs average
         - **Syntax: put in class and omit static**
+
+## Review
+- Encapsulation - bundling data + methods
+- Data hiding - instance variables private
+- Instance method (era)
+    - method that is not static
+    called on an object + uses instance variables
+- Constants 
+    - `public static final int INNINGS_PER_GAME = 9;`
+    - static means shared
+    - final means cannot be reassigned
+- Static vs Instance
+    - Static: shared and not tied to a specific object
+        - "class not object"
+        - can't use instance variables for methods
+    - Instance
+        - can use instance variables (method)
