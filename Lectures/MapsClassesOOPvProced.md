@@ -49,3 +49,9 @@
         - can't use instance variables for methods
     - Instance
         - can use instance variables (method)
+
+## Project 1 Hints
+- Refactor (design and then code)
+    - Design 1st in UML (UML + code should match)
+    - Design 2nd in UML (UML + code should match)
+        - make sure UML saves
