@@ -10,6 +10,9 @@
 - ### [Lab 1: Loops and Lists](http://users.csc.calpoly.edu/~klmork/203/labs/lab1.html)
     - [Part 1](https://github.com/ishaansathaye/part1)
     - [Part 2](https://github.com/ishaansathaye/part2)
+- ### [Lab 2: Static vs Instance Methods](http://users.csc.calpoly.edu/~klmork/203/labs/lab2.html)
+    - [Part 1](https://github.com/ishaansathaye/CPE203Lab2-1)
+    - [Part 2](https://github.com/ishaansathaye/CPE203Lab2-2)
 
 ## Project
 - ### [Quarter Long Project](https://github.com/cpe203/quarter-long-project-ishaansathaye)
