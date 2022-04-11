@@ -5,6 +5,7 @@
 - ### [Lecture 3: ArrayLists, Maps, Simple Classes, and UML](./Lectures/ClassesUML.md)
 - ### [Lecture 4 and 5: Maps, Simple Classes, OOP vs Procedural](./Lectures/MapsClassesOOPvProced.md)
 - ### [Lecture 6: Is-A Relationships and Overloading](./Lectures/IsARelationships.md)
+- ### [Lecture 7: Nim, Scanners, and Overriding toString](./Lectures/NimSannersParentMethods.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)
