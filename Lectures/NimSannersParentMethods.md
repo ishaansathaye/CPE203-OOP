@@ -99,3 +99,8 @@ public String toString() {
 - Make sure UML is uploaded and matches (complete as you go)
 - Move static variables or make methods private as you see fit
 - *Code -> Generate -> getters and setters*
+- Common Bugs
+    - Dude transforms and freezes, sapling does not animate, trees do not get chopped down
+        - Make sure you are calling scheduleActions(0 on approtiate entity
+        - Ask on piazza
+        - Will go over more on Wed
