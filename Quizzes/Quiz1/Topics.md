@@ -25,15 +25,15 @@
 
 ## Util Classes (Maps, Lists, etc.)
 - Labs
-    - Lab 1 Part 1
-    - Lab 1 Part 2: `getGradeFor` method
+    - Lab 1 Part 1✅
+    - Lab 1 Part 2: `getGradeFor` method✅
 - Slides
-    - [Modules 1 and 2](/Lectures/PythontoJava.md)
-    - [Modules 3](/Lectures/ClassesUML.md)
-    - [Modules 4](/Lectures/MapsClassesOOPvProced.md)
+    - [Modules 1 and 2](/Lectures/PythontoJava.md)✅
+    - [Modules 3](/Lectures/ClassesUML.md)✅
+    - [Modules 4](/Lectures/MapsClassesOOPvProced.md)✅
 - To Know
-    - For each loop vs for loop
-    - Using Java API methods for an ArrayList/HashMap
-    - Index into/loop through an Array vs ArrayList
-    - Loop over objects and grab data from objects while looping
-    - Loop through and use elements in a HashMap
+    - For each loop vs for loop✅
+    - Using Java API methods for an ArrayList/HashMap✅
+    - Index into/loop through an Array vs ArrayList✅
+    - Loop over objects and grab data from objects while looping✅
+    - Loop through and use elements in a HashMap✅
