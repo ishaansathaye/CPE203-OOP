@@ -2,26 +2,26 @@
 
 ## Simple Classes
 - Labs
-    - Lab 1 Part 2
+    - Lab 1 Part 2✅
 - Slides
-    - [Modules 3](/Lectures/ClassesUML.md)
-    - [Modules 4](/Lectures/MapsClassesOOPvProced.md)
+    - [Modules 3](/Lectures/ClassesUML.md)✅
+    - [Modules 4](/Lectures/MapsClassesOOPvProced.md)✅
 - To Know
-    - [ ] Defining OOP terms in own words
-    - Use OOP terms in sentences
-    - **OOP Terms**
+    - Defining OOP terms in own words✅
+    - Use OOP terms in sentences✅
+    - **OOP Terms**✅
         1. OOP
         2. Class
         3. Object
         4. Instance variables
         5. Access modifiers
         6. Encapsulation
-        7. Constructor
+        7. Constructor - method that creates instances of a class
         8. Public
-        9. Private
+        9. Private - only access from within the class
         10. Static
-    - Benefits of OOP
-    - Make class or parts of a simple class following OO rules
+    - Benefits of OOP✅
+    - Make class or parts of a simple class following OO rules✅
 
 ## Util Classes (Maps, Lists, etc.)
 - Labs

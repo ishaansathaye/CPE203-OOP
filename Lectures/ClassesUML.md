@@ -6,7 +6,7 @@
 - `ArrayList<String> myStrings = new ArrayList<>();`
 - *Initializing ArrayList*
     - **Constructor**: method that creates instances of a class
-    - **Overloading**: method or constructor that has the same name, but different #/type of params
+    - **Overloading**: method or constructor that has the same name, but different types of params
         - `ArrayList<String> myStrings = new ArrayList<String>(Arrays.asList("hi"));`
         - `ArrayList<String> myStrings = new ArrayList<String>(100);`
             - `100` is the initial capacity of the ArrayList
