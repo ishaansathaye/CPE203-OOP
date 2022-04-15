@@ -61,3 +61,8 @@ public interface Interface {
     - inheritance: overriding methods 
 - Example 3
     - overloading: (ad hoc polymorphism, compile-time polymorphism)
+
+## Flat vs Hierarchy
+- **Class implement interfaces**
+- **Classes extend classes**
+- **Interface extend interfaces**
