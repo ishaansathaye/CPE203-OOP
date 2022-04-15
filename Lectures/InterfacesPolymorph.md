@@ -45,7 +45,7 @@
 ```java
 public class Name implements Interface {
     public void interfaceMethod() { //need to say public
-        System,out.println("Hello");
+        System.out.println("Hello");
     }
 }
 
