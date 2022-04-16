@@ -41,7 +41,7 @@
         - +sticks(): int
         - +remove(int): void
 - Things to/not include in UML
-    -Access Modifiers 
+    - Access Modifiers 
         - +: public
         - -: private
     - Class Name (top)
