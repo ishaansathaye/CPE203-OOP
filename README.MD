@@ -17,6 +17,7 @@
 - ### [Lab 2: Static vs Instance Methods](http://users.csc.calpoly.edu/~klmork/203/labs/lab2.html)
     - [Part 1](https://github.com/ishaansathaye/CPE203Lab2-1)
     - [Part 2](https://github.com/ishaansathaye/CPE203Lab2-2)
+- ### [Lab 3: Interfaces](https://github.com/ishaansathaye/CPE203Lab3)
 
 ## Project
 - ### [Quarter Long Project](https://github.com/cpe203/quarter-long-project-ishaansathaye)
