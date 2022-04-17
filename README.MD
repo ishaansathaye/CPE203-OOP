@@ -21,3 +21,5 @@
 
 ## Project
 - ### [Quarter Long Project](https://github.com/cpe203/quarter-long-project-ishaansathaye)
+    - [Project 1](https://users.csc.calpoly.edu/~klmork/203/proj/assignment1.html)
+    - [Project 2](https://users.csc.calpoly.edu/~klmork/203/proj/assignment2.html)
