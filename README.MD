@@ -8,6 +8,7 @@
 - ### [Lecture 7: Nim, Scanners, and Overriding toString](./Lectures/NimSannersParentMethods.md)
 - ### [Lecture 8: Overriding toString and Equals, Casting, Compile-time vs Runtime, and Debugging](./Lectures/CastingCompileDebugging.md)
 - ### [Lecture 9: Interfaces, Polymorphism, Cohesion, Coupling, and P2](./Lectures/InterfacesPolymorph.md)
+- ### [Lecture 10: Cohesion / Coupling, P2 Intro, Compiler Rules](./Lectures/CohesionCouplingP2CompilerRules.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)
