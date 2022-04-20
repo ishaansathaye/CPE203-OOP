@@ -3,7 +3,7 @@
 ## Review
 - Object class
     - object - instance of a class
-    - Object - parent class (super  class
+    - Object - parent class (super class)
         - toString()
         - getClass()
         - equals()

@@ -40,7 +40,7 @@
     - Explicit cast
 - Upcasting
     - force something to be labeled as a more general type
-    - Implicit cast -> whenever tou assign an object to a reference variable that is more general
+    - Implicit cast -> whenever you assign an object to a reference variable that is more general
 
 ## Reference Type vs Object Type
 - Compile Time: when compiler runs

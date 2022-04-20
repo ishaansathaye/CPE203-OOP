@@ -20,7 +20,7 @@
 - "Ultimate Superclass"
     - Object: parent category to everything
     - Object not going to be draw on the UML because implied
-        - 
+
 ## Reference Type
 - Reference Type
     - Type on stack
