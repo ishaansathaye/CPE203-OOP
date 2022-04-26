@@ -10,6 +10,7 @@
 - ### [Lecture 9: Interfaces, Polymorphism, Cohesion, Coupling, and P2](./Lectures/InterfacesPolymorph.md)
 - ### [Lecture 10: Cohesion / Coupling, P2 Intro, Compiler Rules](./Lectures/CohesionCouplingP2CompilerRules.md)
 - ### [Lecture 11: Compiler and Interface Rules, Factory Design Pattern, Debugging Hints](./Lectures/CompilerInterfaceRulesFactoryDesign.md)
+- ### [Lecture 12: P2 Hints and HashCode / Equals](./Lectures/P2HashCodeEquals.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)
