@@ -11,6 +11,7 @@
 - ### [Lecture 10: Cohesion / Coupling, P2 Intro, Compiler Rules](./Lectures/CohesionCouplingP2CompilerRules.md)
 - ### [Lecture 11: Compiler and Interface Rules, Factory Design Pattern, Debugging Hints](./Lectures/CompilerInterfaceRulesFactoryDesign.md)
 - ### [Lecture 12: P2 Hints and HashCode / Equals](./Lectures/P2HashCodeEquals.md)
+- ### [Lecture 13: Hash Code, Equals with Null, Inheritance](./Lectures/HashCodeEqualsNullInheritance.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)
