@@ -12,6 +12,7 @@
 - ### [Lecture 11: Compiler and Interface Rules, Factory Design Pattern, Debugging Hints](./Lectures/CompilerInterfaceRulesFactoryDesign.md)
 - ### [Lecture 12: P2 Hints and HashCode / Equals](./Lectures/P2HashCodeEquals.md)
 - ### [Lecture 13: Hash Code, Equals with Null, Inheritance](./Lectures/HashCodeEqualsNullInheritance.md)
+- ### [Lecture 14: Inheritance cont., Overriding Parent Methods (equals and toString)](./Lectures/InheritanceParentMethods.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)
