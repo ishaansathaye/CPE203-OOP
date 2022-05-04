@@ -15,6 +15,7 @@ public class Person extends Animal {
 
    //override toString method
    public String toString() {
+      //do return super.toString() + " ...";
       return "I am an Animal object with " + numLegs + " legs and a Person object whose name
       is " + name;
    }
@@ -27,6 +28,7 @@ public class Person extends Animal {
       } else {
          return false;
       }
+      //return super.equals(obj) && name.equals(((Person)obj).name);
    }
 
    public void getPaid(double amount) {

@@ -14,6 +14,7 @@
 - ### [Lecture 13: Hash Code, Equals with Null, Inheritance](./Lectures/HashCodeEqualsNullInheritance.md)
 - ### [Lecture 14: Inheritance cont., Overriding Parent Methods (equals and toString)](./Lectures/InheritanceParentMethods.md)
 - ### [Lecture 15: Abstract Classes and Inheritance Practice](./Lectures/AbstractClassesInheritance.md)
+- ### [Lecture 16: Inheritance Review, Abstract Classes, P3 Checkpoints](./Lectures/InheritanceReviewAbstractClassesP3.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)

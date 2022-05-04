@@ -16,6 +16,9 @@ public class Animal {
    //override equals method
    public boolean equals(Object obj)
    {
+      if (obj == null) {
+         return false;
+      }
       if(obj instanceof Animal) {
          Animal other = (Animal)obj;
          return numLegs == other.numLegs;
