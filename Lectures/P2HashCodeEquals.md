@@ -46,7 +46,6 @@
     - When do we want to override hashCode()?
         - **Anytime we override equals()**
 - Contract
-    - When invoked on the same object > if object jas not changed should induce some numbers
-    - WHen invoked on two equals objects (according to equals method) -> objects have same hash code
+    - When invoked on the same object -> if object has not changed should induce some numbers
+    - When invoked on two equals objects (according to equals method) -> objects have same hash code
     - It is NOT required that two unequal objects hash to two different values -> but better performance if avoid collisions
-- 

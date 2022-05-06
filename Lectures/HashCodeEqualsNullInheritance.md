@@ -5,7 +5,7 @@
     - if equal according to the equals() method -> hashcode should give the same hash
     - **unequal objects CAN have the same hash**
 
-## Equals and HashCOde (null and shortcuts)
+## Equals and HashCode (null and shortcuts)
 - Use ternary operators: ? 0: temp
 
 ## Inheritance
@@ -13,7 +13,7 @@
 - Interfaces -> cannot instantiate, implement data, cannot hold data and implementation
 - Syntax: `public MyClass extends ParentClass {}`
 
-|  | Interfaces | Parent CLasses|
+|  | Interfaces | Parent Classes|
 | ---- | ------ | ------------- |
 | class can | implement many  | extend 1 |
 | can have instance vars | no | yes |
