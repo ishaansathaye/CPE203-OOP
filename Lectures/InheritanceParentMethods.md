@@ -16,7 +16,7 @@
     - `super.toString()` -> no getters
         - consistency
             - only one copy
-            - only update n 1 place
+            - only update in 1 place
         - do not want duplicate code
 
 ## Overriding: equals
@@ -29,4 +29,4 @@
     - equals not final
 
 ## Overriding other methods
-- stull often want to call" super.method() in solution
+- still often want to call" super.method() in solution
