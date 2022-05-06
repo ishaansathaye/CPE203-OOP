@@ -15,6 +15,7 @@
 - ### [Lecture 14: Inheritance cont., Overriding Parent Methods (equals and toString)](./Lectures/InheritanceParentMethods.md)
 - ### [Lecture 15: Abstract Classes and Inheritance Practice](./Lectures/AbstractClassesInheritance.md)
 - ### [Lecture 16: Inheritance Review, Abstract Classes, P3 Checkpoints](./Lectures/InheritanceReviewAbstractClassesP3.md)
+- ### [Lecture 17: Abstract Helper Methods (P3/Lab 5), Comparable / Sorting](./Lectures/AbstractHelperMethodsP3Lab5.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)
