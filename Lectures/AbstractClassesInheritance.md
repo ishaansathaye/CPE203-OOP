@@ -22,7 +22,8 @@
     - need constructor
     - can have instance methods using those instance variables
     - can have abstract methods -> `protected abstract void abstractMethod();`
-- `public abstract class Child extends MyClass {}`
+- `public class Child extends MyClass {}`
 
 ## Inheritance Practice
 - [Inheritance Practice Work](/Lectures/InheritancePractice/Animal.java)
+- [Inheritance Solutions](/Lectures/InheritanceSol/Animal.java)
