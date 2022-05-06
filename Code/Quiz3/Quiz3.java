@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Quiz3 {
     
 
@@ -15,7 +17,7 @@ public class Vendor
 }
 
 ArrayList<Person> people = new ArrayList<Person>();
-for (Object o : people)
+for (Object o : people) //wrong needs to be Person
 {
    if (o instanceof Vendor)
    {
@@ -47,10 +49,8 @@ public class Guest
 }
 
 
-public interface Person {
+// public interface Person {
 
-    void String comment();
+//     void String comment();
 
-}
-
-}
+// }
