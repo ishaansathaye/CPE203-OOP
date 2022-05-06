@@ -8,10 +8,9 @@ public class Student extends Person {
       this.studentLoans = studentLoans;
    }
 
-   //override toString
+   //override toString - wrong
    public String toString() {
-      return "I am an Animal object with " + numLegs + " legs and a Person object whose name
-      is " + name + " and I am a Student object with a " + gpa + " GPA and " + studentLoans + " dollars of student loans.";
+      return "I am an Animal object with " + numLegs + " legs and a Person object whose name is " + name + " and I am a Student object with a " + gpa + " GPA and " + studentLoans + " dollars of student loans.";
    }
 
    //override getPaid method

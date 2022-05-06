@@ -25,8 +25,6 @@ public class Animal {
       } else {}
          return false;
       }
-   }
-
 }
 
   

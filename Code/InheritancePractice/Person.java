@@ -16,8 +16,7 @@ public class Person extends Animal {
    //override toString method
    public String toString() {
       //do return super.toString() + " ...";
-      return "I am an Animal object with " + numLegs + " legs and a Person object whose name
-      is " + name;
+      return "I am an Animal object with " + this.legs + " legs and a Person object whose name is " + name;
    }
 
    //override equals method
