@@ -27,6 +27,7 @@
     - [Part 2](https://github.com/ishaansathaye/CPE203Lab2-2)
 - ### [Lab 3: Interfaces](https://github.com/ishaansathaye/CPE203Lab3)
 - ### [Lab 4: Interacting Classes](https://github.com/ishaansathaye/CPE203Lab4)
+- ### [Lab 5: Inheritance](https://github.com/ishaansathaye/CPE203Lab5)
 
 ## Project
 - ### [Quarter Long Project](https://github.com/cpe203/quarter-long-project-ishaansathaye)
