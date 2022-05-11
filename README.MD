@@ -17,6 +17,7 @@
 - ### [Lecture 16: Inheritance Review, Abstract Classes, P3 Checkpoints](./Lectures/InheritanceReviewAbstractClassesP3.md)
 - ### [Lecture 17: Abstract Helper Methods (P3/Lab 5), Comparable / Sorting](./Lectures/AbstractHelperMethodsP3Lab5.md)
 - ### [Lecture 18: Comparable / Comparators](./Lectures/ComparableComparators.md)
+- ### [Lecture 19: Other Functional Interfaces, Lambdas, Key Extractors, Method Reference Operators](./Lectures/LambdasKeyExtractorsMethodReferenceOperators.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)
