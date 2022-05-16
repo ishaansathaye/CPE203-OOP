@@ -19,6 +19,7 @@
 - ### [Lecture 18: Comparable / Comparators](./Lectures/ComparableComparators.md)
 - ### [Lecture 19: Other Functional Interfaces, Lambdas, Key Extractors, Method Reference Operators](./Lectures/LambdasKeyExtractorsMethodReferenceOperators.md)
 - ### [Lecture 20: Lambda Review, Strategy Design Pattern, P4 Checkpoints, DFS Search](./Lectures/LambdaReviewStrategyDesignP4.md)
+- ### [Lecture 21: Strategy Pattern and P4 Intro, DFS](./Lectures/StrategyPatternP4IntroDFS.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](Lab0)
