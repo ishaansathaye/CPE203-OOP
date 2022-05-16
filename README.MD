@@ -33,6 +33,7 @@
 - ### [Lab 4: Interacting Classes](https://github.com/ishaansathaye/CPE203Lab4)
 - ### [Lab 5: Inheritance](https://github.com/ishaansathaye/CPE203Lab5)
 - ### [Lab 6: Sorting, Comparisons, and Lambda](https://github.com/ishaansathaye/CPE203Lab6)
+- ### [Lab 7: Depth-First Search](https://github.com/ishaansathaye/CPE203Lab7)
 
 ## Project
 - ### [Quarter Long Project](https://github.com/cpe203/quarter-long-project-ishaansathaye)
