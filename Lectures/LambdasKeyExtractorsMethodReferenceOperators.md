@@ -1,6 +1,6 @@
 # Other Functional Interfaces, Lambdas, Key Extractors, Method Reference Operators
 
-## REview
+## Review
 - Comparable / Comparators
     - both interfaces
     - both help compare 2 objects 

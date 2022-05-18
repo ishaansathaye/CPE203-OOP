@@ -54,7 +54,7 @@ public class CompTester
        for (Student s : studentList)
        	   System.out.println("   " + s);
 
-       /*System.out.println("\n---- Sorting by Last Name -----\n");
+       System.out.println("\n---- Sorting by Last Name -----\n");
        Collections.sort(studentList);
        Arrays.sort(studentArray);
 
@@ -77,6 +77,6 @@ public class CompTester
        for (Student s : studentList)
        	   System.out.println("   " + s);
 
-       }*/
+       }
        
 }
