@@ -1,5 +1,22 @@
 # Checkpoints, A* Tracing, and Streams
 
+## Review: Pathing
+- DFS -> Stack
+- BFS -> Queue
+- A* -> Priority Queue -> openList
+
+## P4 Checkpoint
+```java
+private Point nextPositionDude(WorldModel world, Point destPos) {
+
+    PathingStrategy strat = new SingleStepPathingStrategy();
+
+    List<Point> strat.computePath.(); // path excluding start and end
+
+    // few lines to return first step
+}
+```
+
 ## Tracing
 | Current Node | Prior Node | Open List | Closed List | Distance from Start | Heuristic Distance | Total Distance (f = g+h)
 | --- | --- | --- | --- | --- | --- | --- 
