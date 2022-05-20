@@ -21,6 +21,7 @@
 - ### [Lecture 20: Lambda Review, Strategy Design Pattern, P4 Checkpoints, DFS Search](./Lectures/LambdaReviewStrategyDesignP4.md)
 - ### [Lecture 21: Strategy Pattern and P4 Intro, DFS](./Lectures/StrategyPatternP4IntroDFS.md)
 - ### [Lecture 22: DFS vs BFS, A* Intro](./Lectures/DFSvsBFS_AStar.md)
+- ### [Lecture 23: Checkpoints, A* Tracing, and Streams](./Lectures/CheckpointsAStarTracingStreams.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](https://github.com/ishaansathaye/CPE203-OOP/tree/main/Code/Lab0)
