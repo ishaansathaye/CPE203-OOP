@@ -20,12 +20,14 @@ public class StreamsDemo
             
       topStudents.stream().forEach(PrintStudentName);
       
+      // Use stream to calculate average GPA
       System.out.println("Average Student GPA: " +  
          theStudents.stream()
             .mapToDouble(Student::getGpa)
             .sum()
             /theStudents.size());
-         
+      
+      // Use stream to calculate average GPA
       List<Student> raisedStudents = 
          theStudents.stream()
             .filter(s -> s.getGpa() < 2.75)
@@ -38,11 +40,12 @@ public class StreamsDemo
       
    }
    
+   // Reading and Writing from files
    public static void readInStudents(List<Student> students)
    {
       try 
       {
-        Scanner sc = new Scanner(new File("students.txt"));
+        Scanner sc = new Scanner(new File("StreamsDemo/students.txt"));
          while (sc.hasNext())
          {
             students.add(new Student(sc.nextLine(), 
@@ -61,7 +64,7 @@ public class StreamsDemo
    {
       try 
       {
-         PrintStream ps = new PrintStream("raisedStudents.txt");
+         PrintStream ps = new PrintStream("StreamsDemo/raisedStudents.txt");
          
          for (Student s : students)
          {
