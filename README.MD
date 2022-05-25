@@ -23,6 +23,7 @@
 - ### [Lecture 22: DFS vs BFS, A* Intro](./Lectures/DFSvsBFS_AStar.md)
 - ### [Lecture 23: Checkpoints, A* Tracing, and Streams](./Lectures/CheckpointsAStarTracingStreams.md)
 - ### [Lecture 24: Streams, A* Testing, Polymorphism Worksheet](./Lectures/StreamsAStarTestingPolymorphismWorksheet.md)
+- ### [Lecture 25: Polymorphism Practice and P5 Intro](./Lectures/PolymorphismPracticeP5Intro.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](https://github.com/ishaansathaye/CPE203-OOP/tree/main/Code/Lab0)
@@ -43,3 +44,4 @@
     - [Project 1](https://users.csc.calpoly.edu/~klmork/203/proj/assignment1.html)
     - [Project 2](https://users.csc.calpoly.edu/~klmork/203/proj/assignment2.html)
     - [Project 3](https://users.csc.calpoly.edu/~klmork/203/proj/assignment3.html)
+    - [Project 4](https://users.csc.calpoly.edu/~klmork/203/proj/assignment4.html)
