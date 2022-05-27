@@ -24,6 +24,7 @@
 - ### [Lecture 23: Checkpoints, A* Tracing, and Streams](./Lectures/CheckpointsAStarTracingStreams.md)
 - ### [Lecture 24: Streams, A* Testing, Polymorphism Worksheet](./Lectures/StreamsAStarTestingPolymorphismWorksheet.md)
 - ### [Lecture 25: Polymorphism Practice and P5 Intro](./Lectures/PolymorphismPracticeP5Intro.md)
+- ### [Lecture 26: Guest Lecture and P5 Intro](./Lectures/GuestLectureP5Intro.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](https://github.com/ishaansathaye/CPE203-OOP/tree/main/Code/Lab0)
@@ -38,6 +39,7 @@
 - ### [Lab 5: Inheritance](https://github.com/ishaansathaye/CPE203Lab5)
 - ### [Lab 6: Sorting, Comparisons, and Lambda](https://github.com/ishaansathaye/CPE203Lab6)
 - ### [Lab 7: Depth-First Search](https://github.com/ishaansathaye/CPE203Lab7)
+- ### [Lab 8: Streams](https://github.com/ishaansathaye/CPE203Lab8)
 
 ## Project
 - ### [Quarter Long Project](https://github.com/cpe203/quarter-long-project-ishaansathaye)
@@ -45,3 +47,4 @@
     - [Project 2](https://users.csc.calpoly.edu/~klmork/203/proj/assignment2.html)
     - [Project 3](https://users.csc.calpoly.edu/~klmork/203/proj/assignment3.html)
     - [Project 4](https://users.csc.calpoly.edu/~klmork/203/proj/assignment4.html)
+    - [Project 5](https://users.csc.calpoly.edu/~klmork/203/proj/assignment5.html)
