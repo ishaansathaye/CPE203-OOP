@@ -25,6 +25,7 @@
 - ### [Lecture 24: Streams, A* Testing, Polymorphism Worksheet](./Lectures/StreamsAStarTestingPolymorphismWorksheet.md)
 - ### [Lecture 25: Polymorphism Practice and P5 Intro](./Lectures/PolymorphismPracticeP5Intro.md)
 - ### [Lecture 26: Guest Lecture and P5 Intro](./Lectures/GuestLectureP5Intro.md)
+- ### [Lecture 27: Polymorphism Practice and Project 5 Hints](./Lectures/PolymorphismPracticeP5Hints.md)
 
 ## Labs
 - ### [Lab 0: Python to Java (types)](https://github.com/ishaansathaye/CPE203-OOP/tree/main/Code/Lab0)
